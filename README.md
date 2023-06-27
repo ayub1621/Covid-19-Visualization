@@ -18,12 +18,13 @@ To run this program, you need to have the following dependencies installed:
 - Python 3
 - Jupyter Lab
 - Pandas
+- Seaborn
 - Plotly
 
 You can install these dependencies using `pip` by running the following command:
 
 ```bash
-pip install jupyterlab pandas plotly
+pip install jupyterlab pandas plotly seaborn
 ```
 
 Once the dependencies are installed, you can clone the repository and navigate to the project directory:

@@ -47,6 +47,3 @@ cd Covid-19-Visualization
 4. Customize the visualizations based on your requirements. You can modify the data sources, add additional visualizations, or customize the appearance of the graphs.
 
 5. Run the code cells in the notebook to generate the visualizations.
-
-## License
-This program is licensed under the [GNU General Public License v3.0](LICENSE). Feel free to modify and distribute it according to the terms of the license.

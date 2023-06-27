@@ -6,7 +6,6 @@ This program performs Covid-19 visualization using Python and Plotly. The progra
 - [Introduction](#introduction)
 - [Installation](#installation)
 - [Usage](#usage)
-- [License](#license)
 
 ## Introduction
 Covid-19 has had a significant impact on the world, and visualizing the data related to Covid-19 can help in understanding the spread and impact of the virus. This program utilizes Python and Plotly, a powerful graphing library, to visualize Covid-19 data in an interactive and informative way.
